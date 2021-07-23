@@ -2,8 +2,7 @@
 - 👀 I’m interested in gamedev
 - 🌱 I’m currently learning Unity
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me:
-      -Twitter: SamuDevYT
+- 📫 How to reach me: Twitter: SamuDevYT
 
 <!---
 DeveloperSamu/DeveloperSamu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
